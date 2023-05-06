@@ -1,0 +1,3 @@
+*.pdf
+!A*.pdf
+!*report.pdf
